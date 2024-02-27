@@ -1,0 +1,15 @@
+public class procedimento
+{
+	public int ID_PROCEDIMENTO;
+	public String REFPT;
+	public boolean CHECKBOX1;
+	public boolean CHECKBOX2;
+	public boolean CHECKBOX3;
+	public boolean CHECKBOX4;
+	public boolean CHECKBOX5;
+	public boolean CHECKBOX6;
+	public boolean CHECKBOX7;
+	public String CONCLUSOES;
+	public int ID_USUARIO_EXECUTOR;
+	public int ID_BALANCETE;
+}

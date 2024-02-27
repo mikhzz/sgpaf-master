@@ -1,0 +1,12 @@
+public class empresa
+{
+	public int ID_EMPRESA;
+	public String NOME;
+	public String CNPJ;
+	public String ENDERECO;
+	public String TELEFONE;
+	public String TIPO;
+	public String EMAIL;
+	public String RESPONSAVEL;
+	public int ATIVO;
+}

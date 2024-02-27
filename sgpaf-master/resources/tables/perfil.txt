@@ -1,0 +1,6 @@
+public class perfil
+{
+	public int ID_PERFIL;
+	public String DESCRICAO;
+	public String TIPO;
+}

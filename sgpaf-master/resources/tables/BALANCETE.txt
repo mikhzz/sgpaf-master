@@ -1,0 +1,9 @@
+public class balancete
+{
+	public int ID_BALANCETE;
+	public double SALDOTOTAL;
+	public int DATABASE;
+	public java.sql.Date DATA_BALANCO_INICIO;
+	public java.sql.Date DATA_BALANCO_FIM;
+	public int ID_EMPRESA;
+}

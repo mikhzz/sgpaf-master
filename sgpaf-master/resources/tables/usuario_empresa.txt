@@ -1,0 +1,8 @@
+public class usuario_empresa
+{
+	public int ID_USUARIO_EMPRESA;
+	public java.sql.Date DATA_INICIO;
+	public java.sql.Date DATA_FIM;
+	public int ID_EMPRESA;
+	public int ID_USUARIO;
+}

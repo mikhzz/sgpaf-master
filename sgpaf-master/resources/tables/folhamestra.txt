@@ -1,0 +1,10 @@
+public class folhamestra
+{
+	public int ID_FOLHAMESTRA;
+	public String CONCLUSAO;
+	public boolean CHECKBOX_REVISADO;
+	public int ID_USUARIO_SOCIO_DIRETOR;
+	public int ID_USUARIO_SOCIO_GEREENTE;
+	public int ID_USUARIO_REVISOR;
+	public int ID_BALANCETE;
+}

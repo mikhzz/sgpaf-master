@@ -1,0 +1,12 @@
+public class usuario
+{
+	public int ID_USUARIO;
+	public String NOME;
+	public String CPF;
+	public String CARGO;
+	public String LOGIN;
+	public String SENHA;
+	public int ATIVO;
+	public int HABILITADO;
+	public int ID_PERFIL;
+}

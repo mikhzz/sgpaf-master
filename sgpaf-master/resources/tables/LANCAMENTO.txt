@@ -1,0 +1,16 @@
+public class lancamento
+{
+	public long ID_LANCAMENTO;
+	public String REFPT;
+	public String NATUREZA_CONTA;
+	public int NIVEL;
+	public String CODIGO_ESTRUTURADO;
+	public int CODIGO_REDUZIDO;
+	public String DESCRICAO;
+	public BigDecimal SALDO_INICIAL;
+	public BigDecimal DEBITO;
+	public BigDecimal CREDITO;
+	public BigDecimal SALDO_FINAL;
+	public java.sql.Date DATA_BALANCO;
+	public int ID_BALANCETE;
+}
